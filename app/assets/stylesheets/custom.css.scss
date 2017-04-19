@@ -45,10 +45,10 @@ $navbar-default-bg:	blue;
     }
     
     footer a:hover{
-     color:#222;
+     color:red;
      
       }
-      
+     
       footer small{
        float:left;
       }
@@ -59,8 +59,9 @@ $navbar-default-bg:	blue;
     }
     
     footer ul li {
-     float:left;
+     float:right;
      margin-left:15px;
+     
     }
     
     .article-actions{
